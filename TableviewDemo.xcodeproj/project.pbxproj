@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C87037C31FB71AF6004ED3E6 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = QZNZDCDCM2;
 						ProvisioningStyle = Automatic;
 					};
 					C87037D71FB71AF6004ED3E6 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QZNZDCDCM2;
 				INFOPLIST_FILE = TableviewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CodeAMore.TableviewDemo;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QZNZDCDCM2;
 				INFOPLIST_FILE = TableviewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CodeAMore.TableviewDemo;
